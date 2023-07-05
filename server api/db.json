@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "dcefed35-7476-41b6-8056-0cf167a3e3ad",
+      "name": "max",
+      "email": "max@gmail.com"
+    },
+    {
+      "name": "Padam Sinha",
+      "email": "p@gmail.com",
+      "id": "JdIVKYh"
+    },
+    {
+      "id": "43be3588-af83-4866-b24d-e3323066e07c",
+      "name": "ps",
+      "email": "ps@gmail.com"
+    },
+    {
+      "id": "51e7a137-f2e1-45a2-9a4a-28d50e8de931",
+      "name": "amit",
+      "email": "a@gmail.com"
+    }
+  ]
+}
